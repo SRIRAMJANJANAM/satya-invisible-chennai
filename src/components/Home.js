@@ -50,7 +50,7 @@ const services = [
 
 const slides = [
   {
-    eyebrow: "SAFETY MEETS BEAUTY",
+    eyebrow: "Welcome to Satya Balcony Invisible Grills Chennai",
     title: "Balcony Safety",
     highlight: "Invisible Grills in Chennai",
     description:
@@ -59,7 +59,7 @@ const slides = [
     position: "center center",
   },
   {
-    eyebrow: "PROTECTION WITHOUT COMPROMISE",
+    eyebrow: "Welcome to Satya Balcony Invisible Grills Chennai",
     title: "Keep Your Loved Ones",
     highlight: "Safe in Every Space",
     description:
@@ -68,7 +68,7 @@ const slides = [
     position: "center center",
   },
   {
-    eyebrow: "DESIGNED FOR MODERN LIVING",
+    eyebrow: "Welcome to Satya Balcony Invisible Grills Chennai",
     title: "Enjoy Your View",
     highlight: "Without Barriers",
     description:
